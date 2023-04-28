@@ -27,6 +27,32 @@ def search_song_data(song_name):
     results = response.json()
     return results
 
+def search_track_data(trackID):
+    spotify_base_url= f"https://api.spotify.com/v1/tracks/{trackID}"
+    type='track'
+    limit='1'
+    
+    headers = {'Authorization': 'Bearer {}'.format(get_spotify_token())}
+    params = {'type':type,
+              'limit':limit}
+    
+    response = requests.get(spotify_base_url,headers=headers, params=params)
+    results = response.json()
+    return results
+
+def get_album_data(albumID):
+    spotify_base_url= f"https://api.spotify.com/v1/albums/{albumID}"
+    type='album'
+    limit='1'
+    
+    headers = {'Authorization': 'Bearer {}'.format(get_spotify_token())}
+    params = {'type':type,
+              'limit':limit}
+    
+    response = requests.get(spotify_base_url,headers=headers, params=params)
+    results = response.json()
+    return results
+
 def get_playlist_songs(playlist_id):
     spotify_base_url= "https://api.spotify.com/v1"
 
