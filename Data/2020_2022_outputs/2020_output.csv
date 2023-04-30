@@ -1,4 +1,4 @@
-,Song Title,Artist,Song ID,Popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,bpm,duration (ms),duration (secs),top year
+,Song Title,Artist,Song ID,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,bpm,duration (ms),duration (secs),top year
 0,Blinding Lights,The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,92,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,200040,200.04,2020
 1,Dance Monkey,Tones And I,2N8m6CYs74qQO4mjVcXO30,77,0.824,0.587,6,-6.401,0,0.0937,0.69,0.000105,0.149,0.514,98.029,209438,209.438,2020
 2,The Box,Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,83,0.896,0.586,10,-6.687,0,0.0559,0.104,0,0.79,0.642,116.971,196653,196.653,2020
