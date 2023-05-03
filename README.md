@@ -22,5 +22,6 @@ https://www.kaggle.com/datasets/muhmores/spotify-top-100-songs-of-20152019
 https://www.kaggle.com/datasets/equinxx/spotify-top-50-songs-in-2021
 -Spotify API 
 https://developer.spotify.com/documentation/web-api
-
+-Spotify API for Python
+https://lvngd.com/blog/accessing-spotify-api-python/
 
