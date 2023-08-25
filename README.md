@@ -1,7 +1,8 @@
-# group-project-1-DA-bootcamp
+# Spotify Top Hits Analysis
 Hello, 
 
-This repository includes information for a group assignment for edX data analytics bootcamp in association with Washington University in Saint Louis. 
+This repository is an analysis of Spotify Top hits from 2010-2022. We seek to see what traits/attributes are common among the most listened to hits through the 2010s and into the 2020s. 
+We also see if we can see any impact based on the early days of the COVID-19 Pandemic. 
 
 The group is composed of the following members:
 Cody Allison
